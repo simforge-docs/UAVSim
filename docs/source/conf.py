@@ -17,9 +17,9 @@
 
 # -- Project information -----------------------------------------------------
 
-project = 'simforge_gui_user_guide'
-copyright = '2024, simforge'
-author = 'simforge应用组'
+project = 'UAVsim app'
+copyright = '2024,12,17, tjj'
+author = 'tjj'
 
 # The full version, including alpha/beta/rc tags
 release = '1.0'

@@ -33,7 +33,7 @@
 %```
 
 ```{toctree}
-:caption: "GUI User Guide"
+:caption: "UAVSim app"
 :maxdepth: 3
-simforge_gui_user_guide
+UAVSim
 ```
