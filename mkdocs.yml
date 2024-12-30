@@ -5,6 +5,7 @@ theme:
   palette:
     primary: blue
   language: zh
+  logo: assets/images/simforge-logo.png
 
 plugins:                # 搜索插件
   - search
